@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Guilherme Alves
 
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
-🚀 Apaixonado por **Backend** com **Java, Python, Node.js e React**
+🚀 Apaixonado por **Backend** com **Java, Swift, Node.js e React**
 📚 Sempre aprendendo sobre **APIs, Bancos de Dados e Microsserviços**
 🎯 Objetivo: criar soluções escaláveis e inovadoras para o mercado de TI
 
@@ -28,12 +28,6 @@
 ## 🔥 Streak de contribuições
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=snowzinn1&theme=tokyonight)
-
----
-
-## 🧠 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowzinn1&layout=compact&theme=tokyonight)
 
 ---
 ## 🌐 Vamos nos conectar?
