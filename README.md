@@ -20,14 +20,6 @@
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
 ---
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snowzinn1\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowzinn1\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🌐 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/guilherme-alves-de-souza-14b7b6344/)
